@@ -27,7 +27,7 @@
 
 ### Env Variables
 
-Rename the `.env.example` file to `.env` and add the following
+create `.env` and add the following
 
 ```
 NODE_ENV = development
